@@ -1,7 +1,8 @@
 # 📊 Sales & Performance Dashboard
 
 > An end-to-end data analytics project covering **ETL**, **SQL analysis**, **Python EDA**, and **Power BI dashboarding** for sales performance insights.
-
+> **Note:** This project was originally developed in early 2024 
+> and uploaded to GitHub in May 2026.
 ---
 ![Monthly Revenue & Profit Trend](Data/charts/01_monthly_trend.png)
 
