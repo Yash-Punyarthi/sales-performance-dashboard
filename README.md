@@ -3,6 +3,7 @@
 > An end-to-end data analytics project covering **ETL**, **SQL analysis**, **Python EDA**, and **Power BI dashboarding** for sales performance insights.
 
 ---
+![Monthly Revenue & Profit Trend](Data/charts/01_monthly_trend.png)
 
 ## 🗂️ Project Structure
 
