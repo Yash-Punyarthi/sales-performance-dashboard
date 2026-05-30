@@ -23,6 +23,11 @@ sales-performance-dashboard/
 │   ├── generate_data.py          # Dummy dataset generator
 │   └── etl_and_eda.py            # ETL pipeline + EDA with 6 visualizations
 │
+├── page1.png                     # Sales Performance screenshot
+├── page2.png                     # Product Performance screenshot
+├── page3.png                     # Sales Team Analysis screenshot
+├── sales_dashboard.pbix          # Power BI dashboard file
+│
 └── README.md
 ```
 
@@ -151,6 +156,17 @@ The Power BI dashboard connects to the cleaned dataset and includes:
 - **DAX Measures**: MoM Growth %, YTD Revenue, Avg Discount Impact
 
 > Power BI `.pbix` file can be connected to `sales_data_clean.csv` or an Azure SQL Database.
+
+### Dashboard Preview
+
+**Page 1 — Sales Performance**
+![Sales Performance Dashboard](page1.png)
+
+**Page 2 — Product Performance**
+![Product Performance Analysis](page2.png)
+
+**Page 3 — Sales Team Analysis**
+![Sales Team Analysis](page3.png)
 
 ---
 
